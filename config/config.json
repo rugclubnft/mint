@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "#",
+  "SCAN_LINK": "#",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Baby Rugs",
+  "SYMBOL": "BTUG",
+  "MAX_SUPPLY": 2800,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "#",
+  "Discord": "https://discord.gg/sFK5gtdkz9",
+  "Twitter": "https://twitter.com/rugclub_nft",
+  "Etherscan": "#",
+  "SHOW_BACKGROUND": false
+}
